@@ -4,7 +4,7 @@ title: Markus Lux, Frankfurt am Main
 ---
 Hi, I'm Markus, passionate software engineer, computer and data scientist.
 
-I work as a software architect at [QAware](https://www.qaware.de).
+I'm currently head of division and architect at [QAware](https://www.qaware.de).
 
 <hr/>
 
